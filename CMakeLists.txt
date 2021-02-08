@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED (VERSION 3.1 FATAL_ERROR)
-PROJECT (tbpgp C)
+PROJECT (eleutherus)
 
 INCLUDE(ExternalProject)
 INCLUDE(CheckFunctionExists)
